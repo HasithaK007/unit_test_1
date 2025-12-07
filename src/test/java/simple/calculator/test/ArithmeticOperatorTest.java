@@ -9,6 +9,7 @@ public class ArithmeticOperatorTest {
     ArithmeticOperator calc;
     @BeforeMethod
     public void setUp() {
+
         calc = new ArithmeticOperator();
     }
 
